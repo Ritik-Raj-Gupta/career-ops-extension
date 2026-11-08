@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # finish-install.sh — smart installer for career-ops-extension
 #
 # Run this from ANYWHERE — it figures out where things should go.
